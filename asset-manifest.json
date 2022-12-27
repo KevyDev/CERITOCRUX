@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CERITOCRUX/static/css/main.d43662a1.css",
+    "main.js": "/CERITOCRUX/static/js/main.b2cbd31e.js",
+    "static/media/MADE TOMMY Regular_PERSONAL USE.otf": "/CERITOCRUX/static/media/MADE TOMMY Regular_PERSONAL USE.101be848d2d18e7296bc.otf",
+    "static/media/MADE TOMMY Bold_PERSONAL USE.otf": "/CERITOCRUX/static/media/MADE TOMMY Bold_PERSONAL USE.463024f431b0a3769ed9.otf",
+    "static/media/MADE TOMMY Black_PERSONAL USE.otf": "/CERITOCRUX/static/media/MADE TOMMY Black_PERSONAL USE.3183c62623238bdddbbf.otf",
+    "index.html": "/CERITOCRUX/index.html",
+    "main.d43662a1.css.map": "/CERITOCRUX/static/css/main.d43662a1.css.map",
+    "main.b2cbd31e.js.map": "/CERITOCRUX/static/js/main.b2cbd31e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d43662a1.css",
+    "static/js/main.b2cbd31e.js"
+  ]
+}

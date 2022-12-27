@@ -1,0 +1,15 @@
+{
+  "short_name": "CERITO CRUX",
+  "name": "CERITO CRUX by KevyDev",
+  "icons": [
+    {
+      "src": "ceritocrux-logo.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#07f",
+  "background_color": "#eee"
+}
